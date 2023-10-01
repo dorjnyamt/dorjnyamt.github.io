@@ -7,18 +7,18 @@ metaDataFormat: yaml
 
 menu:
   main:
-    - name: Home
+    - name: 🏠 Home
       pageRef: /
       weight: 10
     - name: Content
       params:
         header: true
       weight: 20
-    - name: Articles
+    - name: ✍🏼 Articles
       pageRef: /articles
       weight: 21
-    - name: Projects
-      pageRef: portfolio
+    - name: 🖥️ Projects
+      pageRef: /portfolio
       weight: 22
   social:
     - name: GitHub
@@ -27,3 +27,6 @@ menu:
     - name: LinkedIn
       url: https://linkedin.com/in/dorjnyam
       weight: 2
+    - name: Email
+      url: mailto:contact@dorjnyam.com
+      weight: 3
