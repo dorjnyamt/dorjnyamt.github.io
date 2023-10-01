@@ -2,6 +2,9 @@ baseURL: https://dorjnyam.com
 title: Dorjnyam's Dreamatorium
 theme: digitalgarden
 author: Dorjnyam Tumur-Ochir
+
+metaDataFormat: yaml
+
 menu:
   main:
     - name: Home
@@ -14,7 +17,7 @@ menu:
       params:
         header: true
       weight: 25
-    - name: Blog
+    - name: Articles
       pageRef: /articles
       weight: 30
     - name: Projects
