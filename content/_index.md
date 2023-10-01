@@ -1,3 +1,7 @@
+---
+title: Welcome
+---
+
 # Hello
 Lorem ipsum dolor sit amet, consectetur adipiscing elit. Cras eu libero a quam congue tempus. Sed justo dolor, venenatis quis maximus condimentum, dictum id magna. Duis at dolor nisl. Curabitur venenatis placerat ante, non feugiat ante. Praesent nec rutrum nulla. Sed sollicitudin lobortis turpis, ut dictum elit viverra non. Proin risus nisl, viverra et efficitur ut, laoreet nec mi.
 

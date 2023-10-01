@@ -10,23 +10,20 @@ menu:
     - name: Home
       pageRef: /
       weight: 10
-    - name: About me
-      pageRef: /about
-      weight: 20
     - name: Content
       params:
         header: true
-      weight: 25
+      weight: 20
     - name: Articles
       pageRef: /articles
-      weight: 30
+      weight: 21
     - name: Projects
       pageRef: portfolio
-      weight: 40
+      weight: 22
   social:
     - name: GitHub
       url: https://github.com/dorjnyamt
-      weight: 10
+      weight: 1
     - name: LinkedIn
       url: https://linkedin.com/in/dorjnyam
-      weight: 11
+      weight: 2
