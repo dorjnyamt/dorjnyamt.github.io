@@ -1,3 +1,29 @@
-baseURL: https://example.org/
-languageCode: en-us
-title: My New Hugo Site
+baseURL: https://dorjnyam.com
+title: Dorjnyam's Dreamatorium
+theme: digitalgarden
+author: Dorjnyam Tumur-Ochir
+menu:
+  main:
+    - name: Home
+      pageRef: /
+      weight: 10
+    - name: About me
+      pageRef: /about
+      weight: 20
+    - name: Content
+      params:
+        header: true
+      weight: 25
+    - name: Blog
+      pageRef: /articles
+      weight: 30
+    - name: Projects
+      pageRef: portfolio
+      weight: 40
+  social:
+    - name: GitHub
+      url: https://github.com/dorjnyamt
+      weight: 10
+    - name: LinkedIn
+      url: https://linkedin.com/in/dorjnyam
+      weight: 11
