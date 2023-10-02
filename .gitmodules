@@ -1,3 +1,6 @@
 [submodule "themes/digitalgarden"]
 	path = themes/digitalgarden
 	url = https://github.com/dorjnyamt/digital-garden-hugo-theme.git
+[submodule "themes/dreamatorium"]
+	path = themes/dreamatorium
+	url = git@github.com:dorjnyamt/dreamatorium

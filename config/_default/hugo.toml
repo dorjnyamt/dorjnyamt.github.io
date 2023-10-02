@@ -1,0 +1,7 @@
+baseURL = 'https://dorjnyam.com'
+title = "Dorjnyam's Dreamatorium"
+theme = 'dreamatorium'
+metaDataFormat = "toml"
+copyright = "Dorjnyam Tumur-Ochir"
+[permalinks]
+    posts = "/:year/:month/:title/"
