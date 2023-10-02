@@ -1,0 +1,39 @@
+baseURL = 'https://dorjnyam.com'
+title = "Dorjnyam's Dreamatorium"
+author = "Dorjnyam Tumur-Ochir"
+
+theme = 'digitalgarden'
+metaDataFormat = "toml"
+
+# Main menu
+[menu]
+[[menu.main]]
+    name = "🏠 Home"
+    url = "/"
+    weight = 10
+[[menu.main]]
+    name = "Content"
+    params.header = true
+    weight = 20
+[[menu.main]]
+    name = "✍🏼 Articles"
+    url = "/articles"
+    weight = 21
+[[menu.main]]
+    name = "🖥️ Projects"
+    url = "/portfolio"
+    weight = 22
+    
+# Social menu
+[[menu.social]]
+    name = "GitHub"
+    url = "https://github.com/dorjnyamt"
+    weight = 1
+[[menu.social]]
+    name = "LinkedIn"
+    url = "https://linkedin.com/in/dorjnyam"
+    weight = 2
+[[menu.social]]
+    name = "Email"
+    url = "mailto:contact@dorjnyam.com"
+    weight = 3
