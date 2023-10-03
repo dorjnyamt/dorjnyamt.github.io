@@ -11,13 +11,13 @@ title = "Dorjnyam's Dreamatorium"
   # logo = "img/logo.png"
   # secondaryLogo = "img/secondary-logo.png"
   description = "Personal website of Dorjnyam Tumur-Ochir"
-  # copyright = "Copy, _right?_ :thinking_face:"
+  #copyright = "Copyright?_ :thinking_face:"
 
 [author]
   name = "Dorjnyam Tumur-Ochir"
   image = "me.jpg"
   headline = "Hey, there."
-#   bio = "A little bit about you"
+  bio = "Research engineer"
   links = [
     { email = "mailto:contact@dorjnyam.com" },
 #     { link = "https://link-to-some-website.com/" },

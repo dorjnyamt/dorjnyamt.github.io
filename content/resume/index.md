@@ -67,3 +67,33 @@ This is my current resume/CV. [Download CV](/cv.pdf)
         </tr>
     </tbody>
 </table>
+
+---
+
+## Certificates
+<table>
+    <thead>
+        <tr>
+            <th>Name</th>
+            <th>Issuer</th>
+            <th>Issued</th>
+        </tr>
+    </thead>
+    <tbody>
+        <tr>
+            <td>JLPT N1</td>
+            <td>Japan Educational Exchange and Services</td>
+            <td>2023</td>
+        </tr>
+        <tr>
+            <td>TOEFL iBT 108</td>
+            <td>Educational Testing Service</td>
+            <td>2022</td>
+        </tr>
+        <tr>
+            <td>AWS Certified SysOps Administrator Associate</td>
+            <td>Amazon Web Services</td>
+            <td>2021</td>
+        </tr>
+    </tbody>
+</table>
