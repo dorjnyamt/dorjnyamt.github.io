@@ -1,2 +1,12 @@
-<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>Dorjnyam's Dreamatorium</title><link>https://dorjnyam.com/</link><description>Recent content on Dorjnyam's Dreamatorium</description><generator>Hugo -- gohugo.io</generator><language>en</language><atom:link href="https://dorjnyam.com/index.xml" rel="self" type="application/rss+xml"/><item><title/><link>https://dorjnyam.com/articles/20231001/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://dorjnyam.com/articles/20231001/</guid><description>This is my first post Lorem ipsum dolor sit amet, consectetur adipiscing elit. Cras eu libero a quam congue tempus. Sed justo dolor, venenatis quis maximus condimentum, dictum id magna. Duis at dolor nisl. Curabitur venenatis placerat ante, non feugiat ante. Praesent nec rutrum nulla. Sed sollicitudin lobortis turpis, ut dictum elit viverra non. Proin risus nisl, viverra et efficitur ut, laoreet nec mi.
-Ut ultrices laoreet vehicula. Quisque neque urna, venenatis sed sodales non, facilisis eu augue.</description></item></channel></rss>
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Dorjnyam&#39;s Dreamatorium</title>
+    <link>https://dorjnyam.com/</link>
+    <description>Recent content on Dorjnyam&#39;s Dreamatorium</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en</language>
+    <copyright>© 2023 Dorjnyam Tumur-Ochir</copyright>
+    <atom:link href="https://dorjnyam.com/index.xml" rel="self" type="application/rss+xml" />
+  </channel>
+</rss>
