@@ -4,8 +4,10 @@
   "description": "Dreamatorium theme for Hugo",
   "main": "index.js",
   "scripts": {
-    "dev:css": "NODE_ENV=development ./node_modules/tailwindcss/lib/cli.js -i ./themes/dreamatorium/assets/css/tailwind.css -o ./static/css/main.css -w",
-    "dev": "hugo server"
+    "dev:css": "NODE_ENV=development tailwindcss -i ./themes/dreamatorium/assets/css/input.css -o ./static/css/main.css -w",
+    "build:css": "NODE_ENV=production tailwindcss -i ./themes/dreamatorium/assets/css/input.css -o ./static/css/main.css -w --minify",
+    "dev": "hugo server --noHTTPCache",
+    "build": "npm run build:css && hugo --gc --minify"
   },
   "repository": {
     "type": "git",
@@ -18,14 +20,15 @@
   },
   "homepage": "https://github.com/dorjnyamt/dreamatorium#readme",
   "dependencies": {
-    "@tailwindcss/typography": "github:tailwindcss/typography"
+    "@tailwindcss/line-clamp": "^0.4.4",
+    "@tailwindcss/typography": "^0.5.10",
+    "tailwindcss": "^3.3.3"
   },
   "devDependencies": {
     "autoprefixer": "^10.4.16",
     "postcss": "^8.4.31",
     "postcss-apply": "^0.12.0",
     "postcss-cli": "^10.1.0",
-    "postcss-import": "^15.1.0",
-    "tailwindcss": "^3.3.3"
+    "postcss-import": "^15.1.0"
   }
 }
