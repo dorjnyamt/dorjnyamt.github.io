@@ -15,9 +15,9 @@ enableCodeCopy = true
 mainSections = ["posts"]
 # robots = ""
 
-disableImageOptimization = true
+disableImageOptimization = false
 
-# defaultBackgroundImage = "IMAGE.jpg" # used as default for background images 
+defaultBackgroundImage = "img/background.png" # used as default for background images 
 # defaultFeaturedImage = "IMAGE.jpg" # used as default for featured images in all articles
 
 highlightCurrentMenuArea = true
@@ -35,8 +35,8 @@ smartTOCHideUnfocusedChildren = true
   showScrollToTop = true
 
 [homepage]
-  layout = "profile" # valid options: page, profile, hero, card, background, custom
-  #homepageImage = "IMAGE.jpg" # used in: hero, and card
+  layout = "background" # valid options: page, profile, hero, card, background, custom
+  homepageImage = "img/background.png" # used in: hero, and card
   showRecent = true
   showRecentItems = 6
   showMoreLink = true
