@@ -23,6 +23,11 @@
     pageRef = "projects"
     weight = 30
 
+[[footer]]
+  name = "Resume"
+  pageRef = "resume"
+  weight = 10
+
 #[[main]]
 #  name = "Parent"
 #  weight = 20
