@@ -12,3 +12,5 @@ I will also share my hobbies and things that interest me lately. You can expect 
 I hope to improve my writing skills and understanding of what I learn through constant updates to the blog.  
 
 Wish me luck!
+
+![Gundam](rx-178.jpg)

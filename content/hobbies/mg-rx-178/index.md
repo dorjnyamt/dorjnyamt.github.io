@@ -5,8 +5,13 @@ draft = false
 tags = ['gundam']
 +++
 
-## Box
-
-## Build
-
 ## Gallery
+{{< gallery >}}
+  <img src="images/01.jpg" class="grid-w50" />
+  <img src="images/02.jpg" class="grid-w50" />
+  <img src="images/03.jpg" class="grid-w50" />
+  <img src="images/04.jpg" class="grid-w50" />
+  <img src="images/05.jpg" class="grid-w50" />
+  <img src="images/06.jpg" class="grid-w50" />
+{{< /gallery >}}
+<!-- {{< carousel images="images/*" >}} -->
