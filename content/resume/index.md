@@ -8,6 +8,8 @@ showTableOfContents = true
 showWordCount = false
 +++
 
+This is my current resume/CV. [Download CV](/cv.pdf)
+
 ## Experience
 
 <table>

@@ -13,6 +13,7 @@ showTaxonomies = false
 showWordCount = false
 showSummary = false
 sharingLinks = false
+showRelatedContent = false
 +++
 
 Here you would find projects I have completed if I ever complete one.
